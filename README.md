@@ -1,4 +1,4 @@
-## Hi, I'm Robert Lee Seligmann, a Developer 🚀 from Brazil.
+## Hi, I'm Robert Seligmann, a Developer 🚀 based in Finland.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robsel118)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-seligmann/)
@@ -9,7 +9,6 @@
 
 - 👨🏽‍💻 I’m currently working on my portfolio and personal skills;
 - 🌱 I’m currently learning TypeScript and Koa.js; 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
 - 🤔 I’m looking for help with Design Principles;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Unlike most developer like coffee, I prefer tea 🍵;
