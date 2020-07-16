@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Robert Lee Seligmann, a Developer 🚀 from Brazil.
 
-<!--
-**robsel118/robsel118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robsel118)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-seligmann/)
+<br />
+<br />
+  
+**Talking about Personal Stuffs:**
 
-Here are some ideas to get you started:
+- 👨🏽‍💻 I’m currently working on my portfolio and personal skills;
+- 🌱 I’m currently learning TypeScript and Koa.js; 
+- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
+- 🤔 I’m looking for help with Design Principles;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: Unlike most developer like coffee, I prefer tea 🍵;
+- 📫 How to reach me: robert.seligmann@pm.me;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
