@@ -9,7 +9,7 @@
 
 - 👨🏽‍💻 I’m currently working on my portfolio and personal skills;
 - 🌱 I’m currently learning TypeScript and Koa.js; 
-- 🤔 I’m looking for help with Design Principles;
+- 🤔 I’m looking for help with UX Design and VR development;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Unlike most developer like coffee, I prefer tea 🍵;
 - 📫 How to reach me: robert.seligmann@pm.me;
