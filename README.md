@@ -1,7 +1,14 @@
-## Hi, I'm Robert Seligmann, a Developer 🚀 based in Finland.
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Robert Seligmann, a Developer 🚀 based in Finland.
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/robsel118)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-seligmann/)
+You can find me on [![LinkedIn][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/robert-seligmann/
 <br />
 <br />
   
