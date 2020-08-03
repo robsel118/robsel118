@@ -8,9 +8,9 @@
   
 **Talking about Personal Stuffs:**
 - 📌 I'm Swiss/Canadian
-- 👨🏽‍💻 I’m currently working on my [portfolio](https://robert.seligmann.dev/), a habit tracker, and personal skills;
+- 👨🏽‍💻 I’m currently working on my [portfolio](https://robert.seligmann.dev/), a backend API for a habit tracker, and other personal skills;
 - 🌱 I’m currently learning TypeScript and Koa.js; 
-- 🤔 I’m looking for help with UX Design and VR development;
+- 🤔 I’m looking for help with game and VR development;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Unlike most developer like coffee, I prefer tea 🍵;
 - 📫 How to reach me: robert.seligmann@pm.me;
