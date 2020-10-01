@@ -8,7 +8,7 @@
 **Talking about Personal Stuffs:**
 - 📌 I'm Swiss/Canadian
 - 👨🏽‍💻 I’m currently working on my [portfolio](https://robert.seligmann.dev/), and other side projects;
-- 🌱 I’m currently learning Docker; 
+- 🌱 I’m currently learning Flutter; 
 - 🤔 I’m looking for help with game development;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Unlike most developer like coffee, I prefer tea 🍵;
