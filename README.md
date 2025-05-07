@@ -7,8 +7,8 @@
   
 **Talking about Personal Stuffs:**
 - 📌 I'm Swiss/Canadian
-- 🌱 I’m currently learning Solidity; 
-- 🤔 I’m looking for help with game development;
+- 🌱 I’m currently learning AI automation; 
+- 🤔 I’m looking to connect with digital nomads and freelancers;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Most developer like coffee, I prefer tea 🍵;
 - 📫 How to reach me: robert.seligmann@pm.me;
