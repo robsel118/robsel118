@@ -7,7 +7,7 @@
   
 **Talking about Personal Stuffs:**
 - 📌 I'm Swiss/Canadian
-- 🌱 I’m currently learning AI automation; 
+- 🌱 I’m currently learning Mobile Development, with a focus on Swift 
 - 🤔 I’m looking to connect with digital nomads and freelancers;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Most developer like coffee, I prefer tea 🍵;
